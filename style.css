@@ -11,3 +11,9 @@
 img {
  max-width: 100%;
 }
+
+body {
+    font-family: "Outfit",sans-serif;
+    font-size: 15px;
+    background-color: var(--Light-gray);
+}
